@@ -2,5 +2,5 @@ require 'pry'
 
 class Dog 
   
-  def 
+  def initialize
   end
