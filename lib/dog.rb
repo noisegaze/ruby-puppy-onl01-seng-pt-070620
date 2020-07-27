@@ -16,7 +16,7 @@ class Dog
   
   def self.print_all 
     @name = name 
-    .each do |name|
+    name.each do |name|
       puts "#{name}"
     end
   end
